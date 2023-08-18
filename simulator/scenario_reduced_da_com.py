@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 25 07:37:29 2023
-
-@author: diwaspaudel
-"""
 
 import math
 from AggregatedChargingDemand import *
