@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 12 13:41:39 2023
 
-@author: diwaspaudel
-"""
 import numpy as np
 
 class CompetitiveHubs():
