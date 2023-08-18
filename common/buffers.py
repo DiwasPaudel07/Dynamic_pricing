@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 16 15:55:21 2023
 
-@author: diwaspaudel
-"""
 import torch
 import random
 from collections import namedtuple
