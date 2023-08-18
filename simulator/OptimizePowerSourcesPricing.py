@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May  1 11:57:53 2023
-
-@author: diwaspaudel
-"""
-
 
 import gurobipy as gp 
 from gurobipy import GRB
