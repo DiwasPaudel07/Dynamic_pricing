@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 12 13:41:50 2023
-
-@author: diwaspaudel
-"""
 
 class Environment():
   def __init__(self, df_evs_seeking_charge, df_da_prices, df_rt_prices):
