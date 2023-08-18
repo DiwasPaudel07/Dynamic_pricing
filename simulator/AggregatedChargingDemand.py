@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 12 13:39:18 2023
 
-@author: diwaspaudel
-"""
 from scipy.stats import rv_discrete
 import numpy as np
 
