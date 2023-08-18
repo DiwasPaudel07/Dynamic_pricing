@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 18 09:15:17 2023
-
-@author: diwaspaudel
-"""
 
 import torch
 import torch.nn as nn
