@@ -1,4 +1,4 @@
-# Multi-agent Deep Reinforcement Learning for Dynamic Pricing by Fast-Charging Electric Vehicle Hubs in Competition
+# Tacit algorithmic collusion in deep reinforcement learning guided price competition:A study using EV charge pricing game
 
 ## Requirements
 python >= 3.6 <br>
