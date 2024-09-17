@@ -1,4 +1,4 @@
-# Tacit algorithmic collusion in deep reinforcement learning guided price competition:A study using EV charge pricing game
+# Tacit algorithmic collusion in deep reinforcement learning guided price competition among a set of fast-charging EV hubs
 
 ## Requirements
 python >= 3.6 <br>
